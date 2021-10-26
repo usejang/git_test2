@@ -11,3 +11,6 @@ print(x, y)
 
 lnx = np. log(x)
 y = lnx
+
+##############third edited at github
+print(x)
