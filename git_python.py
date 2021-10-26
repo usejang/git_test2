@@ -7,7 +7,9 @@ print(x)
 y = np.exp(x)
 print(x, y)
 
+<<<<<<< HEAD
 
 Edited at local
 xx = x**2
 y = np.
+=======
