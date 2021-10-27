@@ -5,11 +5,4 @@ print(x)
 
 ############## Edited at github
 y = np.exp(x)
-print(x, y)
-
-<<<<<<< HEAD
-
-Edited at local
-xx = x**2
-y = np.
-=======
+print(a, b)
